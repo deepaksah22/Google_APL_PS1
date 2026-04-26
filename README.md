@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/f10269cc-f108-48c4-bed5-31315e2b4e54
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/deepaksah22/Google_APL_PS1.git
-   cd Agentic_premier_league_Problem_statement_1/squadup
+   cd Google_APL_PS1/squadup
    ```
 
 2. **Install dependencies**:
